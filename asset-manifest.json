@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/findmind/static/css/main.a7fe0171.chunk.css",
+    "main.js": "/findmind/static/js/main.c97974d4.chunk.js",
+    "main.js.map": "/findmind/static/js/main.c97974d4.chunk.js.map",
+    "runtime-main.js": "/findmind/static/js/runtime-main.af0dee59.js",
+    "runtime-main.js.map": "/findmind/static/js/runtime-main.af0dee59.js.map",
+    "static/js/2.9ae0c50f.chunk.js": "/findmind/static/js/2.9ae0c50f.chunk.js",
+    "static/js/2.9ae0c50f.chunk.js.map": "/findmind/static/js/2.9ae0c50f.chunk.js.map",
+    "index.html": "/findmind/index.html",
+    "precache-manifest.e559bf5cf284faea7636714bc3ed30c3.js": "/findmind/precache-manifest.e559bf5cf284faea7636714bc3ed30c3.js",
+    "service-worker.js": "/findmind/service-worker.js",
+    "static/css/main.a7fe0171.chunk.css.map": "/findmind/static/css/main.a7fe0171.chunk.css.map",
+    "static/js/2.9ae0c50f.chunk.js.LICENSE.txt": "/findmind/static/js/2.9ae0c50f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af0dee59.js",
+    "static/js/2.9ae0c50f.chunk.js",
+    "static/css/main.a7fe0171.chunk.css",
+    "static/js/main.c97974d4.chunk.js"
+  ]
+}
